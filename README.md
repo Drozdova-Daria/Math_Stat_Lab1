@@ -7,4 +7,4 @@
 - Распределение Пуассона *P(k,10)*
 - Равномерное распределение *U(x, -sqrt(3), sqrt(3))*
 
-latexImg('a = \\frac{b}{c}')
+<a href="https://www.codecogs.com/eqnedit.php?latex=N(x,0,1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N(x,0,1)" title="N(x,0,1)" /></a>
